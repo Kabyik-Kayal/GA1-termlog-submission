@@ -1,0 +1,4 @@
+# This string is your code, put through 3 reversible shell-friendly transforms
+# (think: what commands would undo rot13, hex, and reversal — and in what order?).
+# It changes every 3 hours, so decode it inside THIS recording, not an old one.
+6414n50515648324q2p445
